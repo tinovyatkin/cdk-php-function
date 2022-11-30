@@ -1,0 +1,11 @@
+{
+    "require-dev": {
+        "vimeo/psalm": "^4.29",
+        "humanmade/psalm-plugin-wordpress": "^2.0",
+        "alexeyshockov/guzzle-psalm-plugin": "^0.3.1",
+        "psalm/plugin-phpunit": "^0.18.0",
+        "bref/bref": "^1.7",
+        "guzzlehttp/guzzle": "^7.5",
+        "aws/aws-sdk-php": "^3.240"
+    }
+}

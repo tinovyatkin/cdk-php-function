@@ -1,0 +1,15 @@
+{
+  "*.{ts,tsx,md}": [
+    "cspell --no-must-find-files --no-summary"
+  ],
+  "*.{ts,tsx}": [
+    "eslint --cache --fix"
+  ],
+  "*.{ts,tsx,js,jsx,mjs,css,json,md,yaml,graphql,mjml,svg}": [
+    "prettier --write"
+  ],
+  "*.php": [
+    "./vendor/bin/psalter --issues=all",
+    "prettier --write"
+  ]
+}

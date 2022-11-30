@@ -1,0 +1,21 @@
+{
+  "version": "0.2",
+  "enabled": true,
+  "dictionaries": [
+    "typescript",
+    "aws",
+    "node",
+    "npm",
+    "html"
+  ],
+  "enabledLanguageIds": [
+    "typescript",
+    "typescriptreact",
+    "markdown",
+    "velocity",
+    "javascript"
+  ],
+  "words": [
+    "projen"
+  ]
+}

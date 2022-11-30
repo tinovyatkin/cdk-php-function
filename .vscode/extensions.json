@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "Quidgest.vscode-velocity",
+    "amazonwebservices.aws-toolkit-vscode",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "getpsalm.psalm-vscode-plugin",
+    "orta.vscode-jest",
+    "xdebug.php-debug",
+    "zobo.php-intellisense"
+  ],
+  "unwantedRecommendations": [
+    "DavidAnson.vscode-markdownlint",
+    "GoogleCloudTools.cloudcode",
+    "ms-kubernetes-tools.vscode-kubernetes-tools"
+  ]
+}
